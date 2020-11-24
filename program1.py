@@ -1,6 +1,4 @@
 def main():
-    print("This is my second git project")
-    print("I changed my programm")
-
+    print("")
 if __name__ =="__main__":
     main()
